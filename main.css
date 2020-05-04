@@ -1,0 +1,32 @@
+body {
+  margin: 0 0 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.result-region {
+  margin-top: 20px;
+  width: 170px;
+  height: 65px;
+}
+
+h2 {
+  margin: 5px 0 0 0;
+}
+
+.input-field1, .input-field2, .input-btn, .AddBtn, .resetBtn {
+  margin: 0 10px 0 10px;
+  
+}
+
+.add__number2, .add__number1, .AddBtn, .resetBtn, .result-region {
+  border-radius: 4px;
+  border: 1px solid black;
+  text-align: center;
+}
